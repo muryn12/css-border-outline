@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.one{
+    margin: 15px auto;
+    width: 250px;
+    height: 100px;
+    outline: dashed red;
+    background-color: cornflowerblue;
+    
+}
+.two{
+    margin: 15px auto;
+    width: 250px;
+    height: 100px;
+    outline: dotted red;
+    background-color: blue;
+    
+}
+.three{
+    width: 250px;
+    height: 100px;
+    outline: 1rem solid black;
+    margin: 30px auto;
+    background-color: #78d40d;;
+}
+.four{
+    width: 250px;
+    height: 100px;
+    margin: 10px auto;
+    background-color: plum;
+    border-left: 5px solid purple;
+}
+.five{
+   width: 250px;
+    height: 100px;
+    margin: 10px auto;
+    background-color: blueviolet;
+    border: 10px solid;
+    border-image: linear-gradient(#f6b73c, #4d9f0c) 30;
+}
+    
